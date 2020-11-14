@@ -2,7 +2,7 @@
   "name": "georgi-hristov-personal-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://georgihristov42.github.io/different-country-every-month",
+  "homepage": "http://GeorgiHristov42.github.io/different-country-every-month",
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^16.2.0",

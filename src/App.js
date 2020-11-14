@@ -27,7 +27,7 @@ class App extends Component {
   getHistoryData(){
       const load = document.getElementById('siteLoading')
     $.ajax({
-      url:'/historyData.json',
+      url:'./historyData.json',
       dataType:'json',
       cache: false,
       success: function(data){
