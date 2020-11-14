@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name":"Oman",
+    "description":"Sultanate of Oman, the small country located in the far southeastern part of the Arab Peninsula, is full of marvellous natural wonders and architectural beauty. It is the oldest Arab state to have been formed in the Arabian peninsula.",
+    "image":"flag-pic.jpg",
+    "bio":"Every month we randomly choose a country and learn about it's culture and post our recommendations for food recipes, films, books or just fun facts we've learned!",
+    "contactmessage":"Have recommendations for us? We'd love to hear from you!",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/georgi.hristov.kiufteto/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/g.hristov_/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "history":{
+    "culture":[
+      {
+        "title":"Islam",
+        "summary":"",
+        "description":"The culture of Oman is steeped in the religion of Islam. Oman has developed its own subsect of Islam, known as Ibadhism, however other strands of Islam such as Sunni and Shi'a are also practiced."
+      },
+      {
+        "title":"Dhow",
+        "summary":"Dhow (Arabic داو dāwa Marathi \"dāw\") is the generic name of a number of traditional sailing vessels with one or more masts with settee.",
+        "description":"Being a seafaring nation, an important symbol in Oman is the dhow. These sailing ships have been used for centuries along the Arabian Peninsula, India, and East Africa for the purpose of trade. In fact, the earliest reported use of an Omani dhow was in the 8th century, arriving in China. In modern-day use, the dhows operate for the purpose of trade, tourism, and fishing, and they can be seen all along Oman's coastline. The main ports of a large fleet, while Sur maintains an extensive dhow-building industry."
+      }
+    ],
+    "film":[
+      {
+        "company":"Operation Oman",
+        "title": "We rate this film 6.8/10",
+        "years": "2014",
+        "description": "Although not actually an Omani film, this UK film about the British Army fighting a secret war in Oman between 1969 and 1976 is an interesting documentary about the events that shaped modern day Oman. Considered to be the most successful counter insurgency operation ever undertaken, it tells the untold story of the British soldiers fighting in Oman."
+      },
+      {
+        "company":"Zayana",
+        "title":"We've not watched it yet, but heard it's good",
+        "years":"2019",
+        "description":"The film deals with certain major women issues within Oman and Asia with a focus on Oman and India, and how an Omani conservative society treats it. It is a self-discovery journey and a mixture between drama and road-movie."
+      }
+    ],
+    "recipesmessage":"Here are our favourite recipes we've tried and recommend",
+    "recipes":[
+      {
+        "name":"Maqbous",
+        "category":"Chicken & Rice",
+        "description":"Maqbous is a chicken and rice dish packed with a legion of spices and a sweet rosewater-raisin tang. We think that the best way to approach making a maqbous is to consider the chicken and rice to be a canvas for the myriad spices set to infuse it.",
+        "image":"maqbous.jpg",
+        "url":"https://blog.arousingappetites.com/maqbous-omani-chicken-saffron-chana-dal-spiced-rice/"
+      },
+      {
+        "name":"Madrouba (Beaten rice)",
+        "category":"Rice",
+        "description":"If you like your rice like you like your women - try this wonderful recipe for beaten rice.",
+        "image":"madrouba.jpg",
+        "url":"https://www.internationalcuisine.com/omani-madrouba/"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"https://original-thai-food.herokuapp.com/index.html"
+      },
+      {
+        "title":"History Website",
+        "category":"A React based history website template",
+        "image":"history-website.jpg",
+        "url":"https://github.com/tbakerx/react-history-template"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "facts":{
+    "facts":[
+      {
+        "text":"Coffee is called kahwa in Arabic. In Oman, kahwa refers to the whole course of hospitality as it includes Omani coffee, dates, fruits, sweets and bakeries.",
+        "user":"Alastair Beaumont - Web Developer at AppColony",
+        "photoUrl":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "trivia":{
+    "trivia":[
+      {
+        "text":"Oman has the longest serving ruler in the Middle East. Sultan Qaboos Bin Said took office as the official ruler of Oman on the 23rd of July in 1970.",
+        "user":"Alastair Beaumont - Web Developer at AppColony",
+        "photoUrl":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
