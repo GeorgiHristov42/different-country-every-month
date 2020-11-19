@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2020 <a title="Georgi Hristov" href="http://www.timbakerdev.com/">Georgi Hristov</a></li>
+              <li>&copy; Copyright 2020 <a title="Georgi Hristov" href="https://www.facebook.com/georgi.hristov.kiufteto/">Georgi Hristov</a></li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 
